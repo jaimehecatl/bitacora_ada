@@ -1,4 +1,4 @@
-<center>Bitácora Técnica</center>
+Bitácora Técnica
 ===================
 
 **INSTITUTO POLITÉCNICO NACIONAL**
@@ -8,7 +8,9 @@
 
 **UPIICSA**
 
-###Almacenamiento de Datos y su Administración
+**Almacenamiento de Datos y su Administración**
+
+###Bitácora Técnica
 
 > **Nota:** La presente bitácora comprende los siguientes temas:
 > - Git [sitio oficial][1]
@@ -18,6 +20,8 @@
 > - R [sitio oficial][5]
 > - RStudio [sitio oficial][6]
 > - VirtualBox [sitio oficial][7]
+
+
 
 [1]:https://git-scm.com/
 [2]:https://github.com/
