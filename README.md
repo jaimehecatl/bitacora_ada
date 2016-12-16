@@ -1,4 +1,5 @@
-->Bitácora Técnica<-
+<p alingn="center">
+Bitácora Técnica
 ===================
 
 **INSTITUTO POLITÉCNICO NACIONAL**
@@ -9,4 +10,6 @@
 
 -------------------------------------------
 ###Almacenamiento de Datos y su Administración
+</p>
+
 
