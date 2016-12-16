@@ -1,5 +1,5 @@
 Bitácora Técnica
 ===================
-
-Almacenamiento de Datos y su Administración
 ___________________________________________
+Almacenamiento de Datos y su Administración
+-------------------------------------------
