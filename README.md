@@ -1,4 +1,4 @@
--> Bitácora Técnica <-
+<center>Bitácora Técnica</center>
 ===================
 
 **INSTITUTO POLITÉCNICO NACIONAL**
