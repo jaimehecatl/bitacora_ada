@@ -1,7 +1,7 @@
 <p alingn="center">
 Bitácora Técnica
-===================
 </p>
+===================
 <p alingn="center">
 **INSTITUTO POLITÉCNICO NACIONAL**
 </p>
