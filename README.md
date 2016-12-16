@@ -10,10 +10,19 @@
 
 ###Almacenamiento de Datos y su Administración
 
-> - Git
-> - GitHub
-> - markdown
-> - Neo4j
-> - R
-> - RStudio
-> - VirtualBox
+> **Nota:** La presente bitácora comprende los siguientes temas:
+> - Git [sitio oficial][1]
+> - GitHub [sitio oficial][2]
+> - markdown [sitio informativo][3]
+> - Neo4j [sitio oficial][4]
+> - R [sitio oficial][5]
+> - RStudio [sitio oficial][6]
+> - VirtualBox [sitio oficial][7]
+
+[1]:https://git-scm.com/
+[2]:https://github.com/
+[3]:http://daringfireball.net/projects/markdown/
+[4]:https://neo4j.com/
+[5]:https://www.r-project.org/
+[6]:https://www.rstudio.com/
+[7]:https://www.virtualbox.org/
