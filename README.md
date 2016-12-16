@@ -21,7 +21,7 @@ Bitácora Técnica
 > - RStudio [sitio oficial][6]
 > - VirtualBox [sitio oficial][7]
 
-
+Aquí podrá encontrar el documento de la bitácora técnica que aborda las tecnologías y herramientas, presentando también, un breve manual de usuario para comenzar su uso.
 
 [1]:https://git-scm.com/
 [2]:https://github.com/
